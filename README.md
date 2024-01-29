@@ -91,7 +91,11 @@ When comparing the current that is flowing through the LED in circuits one and t
 **Question a: What is the voltage drop ( $V_C$ ) across the transistor (Q1) when the LED is on?**    
  The voltage drop across the transistor is **0.02V** when the LED is on and **3.7V** when the LED is off.
 
- **Discussion Question 2: The datasheet mentions a maximum voltage drop (VCE) of 1.2V at saturation. We would like a much smaller value, such as the fraction of a volt that you measured in the first circuit across the switch, S1, when it is on. How does your measured VCE compare to the one listed in the datasheet? Do you think we are operating this transistor in the saturation region?**
+ **Discussion Question 2: The datasheet mentions a maximum voltage drop (VCE) of 1.2V at saturation. We would like a much smaller value, such as the fraction of a volt that you measured in the first circuit across the switch, S1, when it is on. How does your measured VCE compare to the one listed in the datasheet? Do you think we are operating this transistor in the saturation region? The data sheet given is pictured below.**
+
+ <p align="center">
+  <img src=https://github.com/elibarrow/BAE305-SP24-Lab3/blob/main/Data%20sheet.jpeg width=75%>
+</p>
 
  The value given in the data sheet is equal to 1.2V, the value that we measured was 0.022 V. We believe that we are in the saturation period becuase the value 0.022 is close to zero.
 
@@ -128,6 +132,6 @@ NEED TO HAVE A TABLE AND GRAPH HERE SHOWING IB IC GAIN AND VCE FOR THE VARIOUS I
 
 **Unfortunatley we outlasted the time of the lab and were not able to complete the entire lab that was written for us. We only got as far as this lab report shows.**
 
-
+## Conclusion of Lab ##
 
  
