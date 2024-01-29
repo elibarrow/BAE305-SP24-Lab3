@@ -97,4 +97,37 @@ When comparing the current that is flowing through the LED in circuits one and t
 
  **Question b:	Use the fine control in the power supply to make sure the transistor is in the saturation region. What should you see happen to IC as you change the voltage?**  
  As you decrease the $V_C$ then the $I_C$ also decreases until there is no longer enough voltage to activate the transistor, thus putting the $I_C$ to zero.
+
+
+_**Step 4**_  
+For step 4 we built a new circuit, the one shown below, and measured the test points again, similar to step 3 above. We then filled out a similar table to figure 2 to complete this step of part 1.
+
+We also took measurements of the current running through the LED when the light was barely visible and when the LED was bright. The dim LED had a current of 0.68 mA and the bright LED had a current of 11.31 mA.
+
+|Test Point | Voltage (Dim LED) |Voltage (Bright LED) | Voltage (Point 1) |Voltage (Point 2) |Voltage (Point 3)|
+|---|---|---|---|---|---|
+|T1|4.980 V|4.975 V|4.976 V|4.976 V|4.976 V |
+|T2|4.890 V|1.916 V|3.440 V|4.261 V|4.602 V |
+|T3|3.280 V|0.028 V|1.538 V|2.521 V|2.900 V |
+|T4|0.002 V|0.028 V|0.005 V|0.004 V|0.003 V |
+|T5|0.536 V|0.669 V|0.609 V|0.587 V|0.572 V |
+|T6|0.537 V|0.671 V|0.610 V|0.586 V|0.572 V |
+|Component | V. Across (Dim LED) |V. Across (Bright LED)|V. Across (Pt. 1)|V. Across (Pt. 2)|V. Across (Pt. 3)|
+|R1|0.095 V|3.058 V|1.632 V|0.683 V|0.395 V|
+|LED1|1.612 V|1.888 V|1.815 V|1.717 V|1.696 V|
+|R2|0.000 V|0.004 V|0.003 V|0.002 V|0.001 V|
+|Component | Current Across (Dim LED) |I. Across (Bright LED)|I. Across (Pt. 1)|I. Across (Pt. 2)|I. Across (Pt. 3)|
+|LED1|0.13 mA|11.23 mA|6.00 mA|2.50 mA|1.42 mA|
+|R2|0.01 mA|3.57 mA|0.07 mA|0.03 mA|0.02 mA|
+|Gain|13 |3.14|85.7|83.33|71.3|
+
+
+*Figure 4
+
+NEED TO HAVE A TABLE AND GRAPH HERE SHOWING IB IC GAIN AND VCE FOR THE VARIOUS INPUT VALUES.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+**Unfortunatley we outlasted the time of the lab and were not able to complete the entire lab that was written for us. We only got as far as this lab report shows.**
+
+
+
  
