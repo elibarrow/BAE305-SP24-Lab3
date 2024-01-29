@@ -1,4 +1,3 @@
-# BAE305-SP24-Lab3
 
 # Lab Report 3: Let's Switch: Transistors as Switches
 Eli Barrow & Isaac Stevens      
