@@ -1,5 +1,5 @@
 
-# Lab Report 3: Let's Switch: Transistors as Switches
+# Lab Report 3 - Let's Switch: Transistors as Switches
 Eli Barrow & Isaac Stevens      
 Feb. 1, 2024
 
