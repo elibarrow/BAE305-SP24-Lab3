@@ -6,9 +6,10 @@ Feb. 1, 2024
 
 ## Summary of Lab ##
 
-## Lab Assignment Specific Items ##
 
-### Objective 1: Learn to use Diodes, LEDs, and transistors in a basic circuit ###
+### Lab Objective: Learn to use Diodes, LEDs, and transistors in a basic circuit ###  
+
+## Lab Assignment Specific Items ##
 
 ## Part 1 - LED Driving Circuits ##
 
