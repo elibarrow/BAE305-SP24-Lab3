@@ -10,9 +10,31 @@ Feb. 1, 2024
 
 ## Lab Assignment Specific Items ##
 
+For Lab 3, the following materials are required:
+
+• A Digital Multi-meter (DMM): Fluke 87
+
+• A DC Power Supply: Global Specialties 1403
+
+•	3 Resistors: 2.2Ω, 270Ω, 1kΩ
+
+•	An LED (any type)
+
+•	A sliding switch (from the Sparkfun inventor’s kit)
+
+•	An electric motor (from the Sparkfun inventor's kit)
+
+•	A NTE 125 diode
+
+•	A 1kΩ trimmer potentiometer
+
+•	A TIP31C transistor
+
+No code is required to complete Lab 3
+
 ## Part 1 - LED Driving Circuits ##
 
- The first 2 questions of Part 1 of this lab was based on the circuit in the picture shown below.
+ The first 2 questions of Part 1 of this lab were based on the circuit in the picture shown below.
 
 
 <p align="center">
@@ -130,7 +152,7 @@ We also took measurements of the current running through the LED when the light 
 
 NEED TO HAVE A TABLE AND GRAPH HERE SHOWING IB IC GAIN AND VCE FOR THE VARIOUS INPUT VALUES.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-**Unfortunatley we outlasted the time of the lab and were not able to complete the entire lab that was written for us. We only got as far as this lab report shows.**
+**Unfortunately we outlasted the time of the lab and were not able to complete the entire lab that was written for us. We only got as far as this lab report shows.**
 
 ## Conclusion of Lab ##
 
