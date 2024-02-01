@@ -47,6 +47,7 @@ No code is required to complete Lab 3
 _**Step 1**_   
 We began by measuring the true values of the resistors and comparing them to the expected resistance using the Fluke 87 Digital Multimeter. 
 
+Table 1. Real Values of the Resistors
  |Resistor (Expected Value)| Actual Value |
 |---|---|
 |270   &Omega;|  269.30   &Omega;  |
