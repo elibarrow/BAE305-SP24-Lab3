@@ -4,7 +4,7 @@ Eli Barrow & Isaac Stevens
 Feb. 1, 2024
 
 ## Summary of Lab ##
-
+Summary of the Lab was using 
 
 ### Lab Objective: Learn to use Diodes, LEDs, and transistors in a basic circuit ###  
 
