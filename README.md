@@ -71,7 +71,7 @@ Table 2. Measurements in a circuit with an LED directly connected to a switch
 |R1|  3.089 V  | 0.000 V |
 |LED1|  1.893 V  | 0.150 V|
 |S1|  0.000 V  | 0.000 V|
-||  **Current Through (Switch On)** |**Current Through (Switch Off) **|
+||  **Current Through (Switch On)** |**Current Through (Switch Off)**|
 |LED1|  10.010 mA  | 0.010 mA|  
 
 
@@ -102,7 +102,7 @@ Table 3. Measurements on a circuit with an LED connected through a transistor
 |LED1|  1.895 V  | 0.020 V|
 |R2|  4.285 V | 0.000 V |
 |S1|  0.000 V  | 4.515 V|
-||  **Current Through (Switch On)** |**Current Through (Switch Off) **|
+||  **Current Through (Switch On)** |**Current Through (Switch Off)**|
 |LED1|  11.200 mA  | 0.000 mA|  
 |R2|  4.320 mA | 0.020 mA |
 |R1|  18.519 mA | 18.519 mA |
