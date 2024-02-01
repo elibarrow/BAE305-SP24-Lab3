@@ -158,5 +158,5 @@ NEED TO HAVE A TABLE AND GRAPH HERE SHOWING IB IC GAIN AND VCE FOR THE VARIOUS I
 **Unfortunately we outlasted the time of the lab and were not able to complete the entire lab that was written for us. We only got as far as this lab report shows.**
 
 ## Conclusion of Lab ##
-
+The conclusion of the lab
  
