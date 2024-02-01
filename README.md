@@ -132,6 +132,7 @@ For step 4 we built a new circuit, the one shown below, and measured the test po
 
 We also took measurements of the current running through the LED when the light was barely visible and when the LED was bright. The dim LED had a current of 0.68 mA and the bright LED had a current of 11.31 mA.
 
+Table 4. Controlling LED current using a transistor
 |Test Point | Voltage (Dim LED) |Voltage (Bright LED) | Voltage (Point 1) |Voltage (Point 2) |Voltage (Point 3)|
 |---|---|---|---|---|---|
 |T1|4.980 V|4.975 V|4.976 V|4.976 V|4.976 V |
