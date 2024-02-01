@@ -55,7 +55,6 @@ Table 1. Real Values of the Resistors
 |2.2   &Omega;|  2.5   &Omega;  |
 
 
-*Figure 1
 
 _**Step 2**_  
 After building the circuit and verifying the resistor values, we then measured the voltages at each test point that is shown on the schematic above. We were then given the table below and filled it out with the values we measured in the lab. 
@@ -75,7 +74,6 @@ Table 2. Measurements in a circuit with an LED directly connected to a switch
 |LED1|  10.010 mA  | 0.010 mA|  
 
 
-*Figure 2
 
 In step 2 we were also asked to calculate the current through R1 by using Ohm's law. When using V=IR, where V = 5V, R = 270&Omega;, I = ?. We found the current (I) through R1 equal to 18.518 mA.
 
@@ -107,7 +105,6 @@ Table 3. Measurements on a circuit with an LED connected through a transistor
 |R2|  4.320 mA | 0.020 mA |
 |R1|  18.519 mA | 18.519 mA |
 
-*Figure 3
 
 **Discussion Question 1: How does the current through the LED compare between circuits 1 & 2?**
 When comparing the current that is flowing through the LED in circuits one and two we can easily see from the values in our table that the current running through the LED in the second circuit is about 1 mA greater than that of circuit 2 with the switch in the on position. When the switch is off, the current running through the LED in circuits 1 & 2 is equal to approximately zero. 
@@ -156,10 +153,12 @@ Graph 1: IB and IC with respect to change in Voltage BE
   <img src=https://github.com/elibarrow/BAE305-SP24-Lab3/blob/main/IB%20and%20IC.png width=75%>
 </p>
 
+
 Graph 2: Gain with respect to change in Voltage BE
  <p align="center">
   <img src=https://github.com/elibarrow/BAE305-SP24-Lab3/blob/main/Gain.png width=75%>
 </p>
+
 
 Graph 3: Voltage CE with respect to change in Voltage BE
  <p align="center">
