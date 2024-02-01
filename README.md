@@ -141,11 +141,11 @@ Table 4. Controlling LED current using a transistor
 |T4|0.002 V|0.028 V|0.005 V|0.004 V|0.003 V |
 |T5|0.536 V|0.669 V|0.609 V|0.587 V|0.572 V |
 |T6|0.537 V|0.671 V|0.610 V|0.586 V|0.572 V |
-|Component | V. Across (Dim LED) |V. Across (Bright LED)|V. Across (Pt. 1)|V. Across (Pt. 2)|V. Across (Pt. 3)|
+|**Component** | **V. Across (Dim LED)** |**V. Across (Bright LED)**|**V. Across (Pt. 1)**|**V. Across (Pt. 2)**|**V. Across (Pt. 3)**|
 |R1|0.095 V|3.058 V|1.632 V|0.683 V|0.395 V|
 |LED1|1.612 V|1.888 V|1.815 V|1.717 V|1.696 V|
 |R2|0.000 V|0.004 V|0.003 V|0.002 V|0.001 V|
-|Component | Current Across (Dim LED) |I. Across (Bright LED)|I. Across (Pt. 1)|I. Across (Pt. 2)|I. Across (Pt. 3)|
+|**Component**|**Current Across (Dim LED)**|**I. Across (Bright LED)**|**I. Across (Pt. 1)**|**I. Across (Pt. 2)**|**I. Across (Pt. 3)**|
 |LED1|0.13 mA|11.23 mA|6.00 mA|2.50 mA|1.42 mA|
 |R2|0.01 mA|3.57 mA|0.07 mA|0.03 mA|0.02 mA|
 |Gain|13 |3.14|85.7|83.33|71.3|
