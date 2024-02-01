@@ -151,12 +151,21 @@ Table 4. Controlling LED current using a transistor
 |Gain|13 |3.14|85.7|83.33|71.3|
 
 
-*Figure 4
+Graph 1: IB and IC with respect to change in Voltage BE
  <p align="center">
   <img src=https://github.com/elibarrow/BAE305-SP24-Lab3/blob/main/IB%20and%20IC.png width=75%>
 </p>
 
-NEED TO HAVE A TABLE AND GRAPH HERE SHOWING IB IC GAIN AND VCE FOR THE VARIOUS INPUT VALUES.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Graph 2: Gain with respect to change in Voltage BE
+ <p align="center">
+  <img src=https://github.com/elibarrow/BAE305-SP24-Lab3/blob/main/Gain.png width=75%>
+</p>
+
+Graph 3: Voltage CE with respect to change in Voltage BE
+ <p align="center">
+  <img src=https://github.com/elibarrow/BAE305-SP24-Lab3/blob/main/Voltage%20CE.png width=75%>
+</p>
+
 
 **Unfortunately we outlasted the time of the lab and were not able to complete the entire lab that was written for us. We only got as far as this lab report shows.**
 
