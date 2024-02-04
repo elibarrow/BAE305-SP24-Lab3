@@ -10,27 +10,23 @@ There were multiple goals for this lab, with the main purpose being to learn how
 
 ## Lab Assignment Specific Items ##
 
-For Lab 3, the following materials are required:
+For Lab 4, the following materials are required:
 
-• A Digital Multi-meter (DMM): Fluke 87
+• 2 Digital Multi-meter (DMM): Fluke 87
 
-• A DC Power Supply: Global Specialties 1403
+• 2 DC Power Supply: Global Specialties 1403
 
-•	3 Resistors: 2.2Ω, 270Ω, 1kΩ
+•	9 Resistors: 1 kΩ, 4.7 kΩ, 8.2 kΩ, two 68 kΩ, 150 kΩ, 270 kΩ, 330 kΩ, 1.5 MΩ
 
-•	An LED (any type)
+• 2	Capacitors: 1nF and 100 nF
 
-•	A sliding switch (from the Sparkfun inventor’s kit)
+• A Function Generator: Global Specialties 2001A
 
-•	An electric motor (from the Sparkfun inventor's kit)
-
-•	A NTE 125 diode
+•	An LM741 Op Amp
 
 •	A 1kΩ trimmer potentiometer
 
-•	A TIP31C transistor
-
-No code is required to complete Lab 3
+No code is required to complete Lab 4
 
 ## Part 1 - LED Driving Circuits ##
 
